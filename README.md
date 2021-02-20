@@ -1,34 +1,38 @@
-### Hi there, I'm Victor Kich!
+### Hi there, I'm Kelvin Seibt!
 
-Hi, I'm Victor Kich, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.
+Excited about the practicality of React Stack and on the way to making it a point of reference in my skills.
+Machine learning enthusiast.
+In search of the recognition of my knowledge. 
 
-- 🔭 I’m currently working on [RiVAE](https://github.com/victorkich/RiVAE), [ManyTor](https://github.com/victorkich/ManyTor), [Jubileo](https://github.com/victorkich/jubileo)(private), and [Dibbuk Box](https://github.com/victorkich/Dibbuk-Box)(private)
-- 🌱 I’m currently learning Deep Reinforcement Learning with [PyTorch](https://pytorch.org/), and Computer Graphics with [OpenGL](https://www.opengl.org/)
-- 📫 How to reach me: victorkich@yahoo.com.br
-- 💬 Ask me about anything [here](https://github.com/victorkich/victorkich/issues)
+Working at [CantuStange](http://www.cantustange.com.br/) as FullStack Delphi Developer.
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+Studying at [UNISC](https://www.unisc.br/en), where i am:
+- Ex voluntary scholarship holder of LIME (Liga de Medicina Emergencial), as developer of server, website and app.
+- Scholarship holder of Wearable.
+
+Self-studies:
+- React framework environment and tools.
+- OpenGL (C++)
+- OpenCV (C++/Python)
+- Machine Learning (Deep Reinforcement Learning)
+- Unity/Blender (for simulations)
+
+Contact:
+- 📫 E-mail: kelvin.seibt@gmail.com
+- 💬 Ask something [here](https://github.com/the0wl/the0wl/issues)
 
 **Languages and Tools:**  
 
-<!-- <img height="20" src="imgs/tensorflow.png" alt="TensorFlow"> -->
-<!-- <img height="15" src="imgs/opengl.png" alt="OpenGL"> -->
-
 <code>
 <img height="20" src="imgs/python.png" alt="Python">
+<img height="20" src="imgs/c.png" alt="C">  
 <img height="20" src="imgs/cpp.png" alt="C++">
 <img height="20" src="imgs/java.png" alt="Java">
-<img height="20" src="imgs/arduino.png" alt="Arduino">
-<img height="20" src="imgs/pytorch.png" alt="PyTorch">
-<img height="20" src="imgs/keras.png" alt="Keras">
 <img height="20" src="imgs/numpy.png" alt="Numpy">
 <img height="20" src="imgs/pandas.png" alt="Pandas">
-<img height="20" src="imgs/pyqt5.png" alt="PyQt5">
-<img height="20" src="imgs/matplotlib.png" alt="Matplotlib"> 
-<img height="15" src="imgs/vispy.png" alt="Vispy">
+<img height="20" src="imgs/matplotlib.png" alt="Matplotlib">
+<img height="20" src="imgs/blender.png" alt="Blender">
+<img height="20" src="imgs/unity.png" alt="Unity">
 </code> 
 
 </br>
