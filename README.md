@@ -38,8 +38,8 @@ Contact:
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkich&show_icons=true&include_all_commits=true&theme=algolia" alt="Victor's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the0wl&show_icons=true&include_all_commits=true&theme=algolia" alt="Kelvin's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkich&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0wl&layout=compact&theme=algolia" />
 </a>
