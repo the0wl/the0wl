@@ -1,49 +1,5 @@
-## Eae, beleza? Eu sou Kelvin Seibt!
-
-> Aprenda como se você fosse viver para sempre. Viva como se você fosse morrer amanhã. (Santo Isidoro de Sevilha)
-
-#### Tecnologias com que trabalho
-- Delphi
-- MySQL e SQLite
-
-#### O que estou estudando
-- Dart (Flutter)
-- Node.js
-- Scrum
-
-#### Interesses
-
-- Healthcare
-- Inteligência artificial
-- Dispositivos móveis e vestíveis
-- Paralelismo
-- Full Stack
-
-## Projetos
-
-#### Data4Care
-UNISC - UNIVERSIDADE DE SANTA CRUZ DO SUL
-
-Plataforma para obtenção, gerenciamento e previsão de dados, gerados a partir do comportamento físico/biológico dos pacientes em consul-
-tas fisioterapêuticas.
-
-* Análise de dados de pacientes do hospital Santa Cruz e da clinica de FisioUNISC, para criação de modelos preditivos através da linguagem
-Python.
-* Aplicativo mobile com o framework JavaScript, React-Native.
-* Desenvolvimento de aplicação para comunicação com dispositivos sensores Bluetooth Low Energy (BLE).
-
-#### LIME
-UNISC - UNIVERSIDADE DE SANTA CRUZ DO SUL
-
-Plataforma focada em estudantes de medicina, médicos e profissionais da saúde, com protocolos e condutas preconizadas em emergência e
-urgência médicas.
-
-• Desenvolvimento de servidor em NodeJS e utilizando PostgreSQL.
-• Desenvolvimento de plataforma web e aplicativo mobile utilizando os frameworks React e React-Native.
-
----
-
-Contato
-
-- 📫 E-mail: kelvin.seibt@gmail.com
-- 💬 Pergunte algo [aqui](https://github.com/the0wl/the0wl/issues)
+<iframe
+  src="https://carbon.now.sh/embed?bg=rgba%2813%2C17%2C23%2C1%29&t=seti&wt=none&l=markdown&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Fira+Code&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2523%2520Eae%252C%2520beleza%253F%2520Eu%2520sou%2520Kelvin%2520Seibt%21%250A%250A%253E%2520Aprenda%2520como%2520se%2520voc%25C3%25AA%2520fosse%2520viver%2520para%2520sempre.%2520Viva%2520como%2520se%2520voc%25C3%25AA%2520fosse%2520morrer%2520amanh%25C3%25A3.%2520%28Santo%2520Isidoro%2520de%2520Sevilha%29%250A%250A%2523%2523%2520Tecnologias%2520com%2520que%2520trabalho%250A-%2520Delphi%250A-%2520MySQL%2520e%2520SQLite%250A%250A%2523%2523%2520O%2520que%2520estou%2520estudando%250A-%2520Dart%2520%28Flutter%29%250A-%2520Node.js%250A-%2520Scrum%250A%250A%2523%2523%2520Interesses%250A%250A-%2520Healthcare%250A-%2520Intelig%25C3%25AAncia%2520artificial%250A-%2520Dispositivos%2520m%25C3%25B3veis%2520e%2520vest%25C3%25ADveis%250A-%2520Paralelismo%250A-%2520Full%2520Stack%250A%250A%2523%2523%2520Projetos%250A%250A%2523%2523%2523%2520Data4Care%250AUNISC%2520-%2520UNIVERSIDADE%2520DE%2520SANTA%2520CRUZ%2520DO%2520SUL%250A%250APlataforma%2520para%2520obten%25C3%25A7%25C3%25A3o%252C%2520gerenciamento%2520e%2520previs%25C3%25A3o%2520de%2520dados%252C%2520gerados%2520a%2520partir%2520do%2520comportamento%2520f%25C3%25ADsico%252Fbiol%25C3%25B3gico%2520dos%2520pacientes%2520em%2520consul-%250Atas%2520fisioterap%25C3%25AAuticas.%250A%250A*%2520An%25C3%25A1lise%2520de%2520dados%2520de%2520pacientes%2520do%2520hospital%2520Santa%2520Cruz%2520e%2520da%2520clinica%2520de%2520FisioUNISC%252C%2520para%2520cria%25C3%25A7%25C3%25A3o%2520de%2520modelos%2520preditivos%2520atrav%25C3%25A9s%2520da%2520linguagem%250APython.%250A*%2520Aplicativo%2520mobile%2520com%2520o%2520framework%2520JavaScript%252C%2520React-Native.%250A*%2520Desenvolvimento%2520de%2520aplica%25C3%25A7%25C3%25A3o%2520para%2520comunica%25C3%25A7%25C3%25A3o%2520com%2520dispositivos%2520sensores%2520Bluetooth%2520Low%2520Energy%2520%28BLE%29.%250A%250A%2523%2523%2523%2520LIME%250AUNISC%2520-%2520UNIVERSIDADE%2520DE%2520SANTA%2520CRUZ%2520DO%2520SUL%250A%250APlataforma%2520focada%2520em%2520estudantes%2520de%2520medicina%252C%2520m%25C3%25A9dicos%2520e%2520profissionais%2520da%2520sa%25C3%25BAde%252C%2520com%2520protocolos%2520e%2520condutas%2520preconizadas%2520em%2520emerg%25C3%25AAncia%2520e%250Aurg%25C3%25AAncia%2520m%25C3%25A9dicas.%250A%250A%25E2%2580%25A2%2520Desenvolvimento%2520de%2520servidor%2520em%2520NodeJS%2520e%2520utilizando%2520PostgreSQL.%250A%25E2%2580%25A2%2520Desenvolvimento%2520de%2520plataforma%2520web%2520e%2520aplicativo%2520mobile%2520utilizando%2520os%2520frameworks%2520React%2520e%2520React-Native.%250A%250A---%250A%250A%2523%2523%2520Contato%250A%250A-%2520%25F0%259F%2593%25AB%2520E-mail%253A%2520kelvin.seibt%2540gmail.com%250A-%2520%25F0%259F%2592%25AC%2520Pergunte%2520algo%2520%255Baqui%255D%28https%253A%252F%252Fgithub.com%252Fthe0wl%252Fthe0wl%252Fissues%29"
+  style="width: 1024px; height: 1155px; border:0; transform: scale(1); overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
