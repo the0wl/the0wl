@@ -9,7 +9,7 @@ Delphi  ┃  Javascript  ┃  Python
 
 ## O que estou estudando
 
-Rust  ┃  Go  ┃  Java   
+Rust  ┃  Java   
 
 ## Interesses
 
