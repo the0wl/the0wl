@@ -8,7 +8,7 @@
 
 ## Technology
 
-Delphi  ┃  Javascript  |  Kotlin  ┃  Python   
+Delphi  ┃  Javascript  ┃  Kotlin  ┃  Python   
 
 ## What I'm studying
 
@@ -34,7 +34,7 @@ Healthcare  ┃  IA  ┃  Wearable devices  ┃  Critica
 
 ## Tecnologias
 
-Delphi  ┃  Javascript  |  Kotlin  ┃  Python     
+Delphi  ┃  Javascript  ┃  Kotlin  ┃  Python     
 
 ## O que estou estudando
 
