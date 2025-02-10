@@ -8,15 +8,15 @@
 
 ## Technology
 
-Delphi  ┃  Javascript  ┃  Kotlin  ┃  Python   
+Javascript  ┃  Kotlin  ┃  Delphi  ┃  Python   
 
 ## What I'm studying
 
-Rust  ┃  Java   
+Rust | Image Segment/Classify | Web Security | Software Architectures
 
 ## Interests
 
-Healthcare  ┃  IA  ┃  Wearable devices  ┃  Critical systems
+Healthcare  ┃  AI  ┃  Wearable devices  ┃  Process implementation
 
 ## Contact
 
@@ -34,15 +34,15 @@ Healthcare  ┃  IA  ┃  Wearable devices  ┃  Critica
 
 ## Tecnologias
 
-Delphi  ┃  Javascript  ┃  Kotlin  ┃  Python     
+Javascript  ┃  Kotlin  ┃  Delphi  ┃  Python      
 
 ## O que estou estudando
 
-Rust  ┃  Java   
+Rust | Segmentar/Classificar imagens | Segurança na web | Arquiteturas de software 
 
 ## Interesses
 
-Healthcare  ┃  IA  ┃  Dispositivos vestíveis  ┃  Sistemas críticos
+Healthcare  ┃  IA  ┃  Dispositivos vestíveis  ┃  Implementação de processos
 
 ## Contato
 
