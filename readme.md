@@ -8,15 +8,19 @@
 
 ## Technology
 
-Javascript  ┃  Kotlin  ┃  Delphi  ┃  Python   
+TypeScript  ┃  Kotlin  ┃  Delphi  ┃  Python   
 
 ## What I'm studying
 
-Rust | Image Segment/Classify | Web Security | Software Architectures
+Rust | Image Segment/Classify | Web Security | Software Architectures  | Lua
 
 ## Interests
 
 Healthcare  ┃  AI  ┃  Wearable devices  ┃  Process implementation
+
+## What project is on my mind?
+
+https://github.com/the0wl/msa
 
 ## Contact
 
@@ -34,15 +38,19 @@ Healthcare  ┃  AI  ┃  Wearable devices  ┃  Process
 
 ## Tecnologias
 
-Javascript  ┃  Kotlin  ┃  Delphi  ┃  Python      
+TypeScript  ┃  Kotlin  ┃  Delphi  ┃  Python      
 
 ## O que estou estudando
 
-Rust | Segmentar/Classificar imagens | Segurança na web | Arquiteturas de software 
+Rust | Segmentar/Classificar imagens | Segurança na web | Arquiteturas de software | Lua
 
 ## Interesses
 
 Healthcare  ┃  IA  ┃  Dispositivos vestíveis  ┃  Implementação de processos
+
+## Qual projeto está na minha mente?
+
+https://github.com/the0wl/msa
 
 ## Contato
 
